@@ -1,4 +1,3 @@
-<img width="1853" height="915" alt="image" src="https://github.com/user-attachments/assets/25ad7cd3-dd6a-4503-8569-c3843feedf28" /># Plataforma de E-commerce
 
 # Sobre o projeto
 Projeto de e-commerce desenvolvido em PHP, rodando em ambiente local com XAMPP,
